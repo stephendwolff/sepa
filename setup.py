@@ -4,7 +4,7 @@ from setuptools import setup
 
 setup(
     name='sepa',
-    version='0.0.1-dev',
+    version='0.0.2',
     url='',
     author='Grup El Gas, S.A.',
     author_email='informatica@el-gas.es',
